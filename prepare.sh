@@ -4,4 +4,5 @@ echo "Extracting files....""
 tar -zxvf publibs.tgz 
 echo "Cleaning up..."
 rm -f publibs.tgz 
-rm -- "$0"
+rm -- $0
+
