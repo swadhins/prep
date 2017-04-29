@@ -3,6 +3,7 @@ OpenSSL/ \
 apiclient/ \
 appengine_config.py \
 cloudstorage/ \
+facebook/ \
 google-apis-client-generator/ \
 googleapiclient/ \
 googlemaps/ \
@@ -13,6 +14,5 @@ recaptcha/ \
 requests/ \
 requests_toolbelt/ \
 six.py \
-social/ \
 uritemplate/ 
 
