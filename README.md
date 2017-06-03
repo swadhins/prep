@@ -5,7 +5,7 @@ curl -o prepare.sh -L  https://goo.gl/8scsc3 && chmod +x prepare.sh && ./prepare
 
 
 Warning: 
-google-apis-client-generator is dependent on django-1.7
-if you are using this library for generating client libraries then please install django-1.7.
+google-apis-client-generator is dependent on django-1.7.
+If you are using this library for generating client libraries then install django-1.7.
 
 $ pip install django==1.7
