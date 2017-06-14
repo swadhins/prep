@@ -4,7 +4,8 @@ Use the following command to initialize the set of public libraries you need for
 curl -o prepare.sh -L  https://goo.gl/8scsc3 && chmod +x prepare.sh && ./prepare.sh
 
 
-For preparing only requests and dependent libs
+For preparing only requests and dependent libs:
+
 curl -o prepare_requests.sh -L  https://goo.gl/7DRQb6 && chmod +x prepare_requests.sh && ./prepare_requests.sh
 
 Warning: 
